@@ -72,3 +72,9 @@ git checkout master
 # รวม branch dev เข้ากับ master
 git merge dev
 ```
+
+### update repository บน github ให้ตรงกับ local
+
+```bash
+git push origin -f
+```
