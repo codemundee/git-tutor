@@ -63,6 +63,12 @@ git checkout -- filename.ext
 git reset --hard HEAD^
 ```
 
+### ลบ branch
+
+```bash
+git branch -d branch-name
+```
+
 ### รวม branch
 
 ```bash
